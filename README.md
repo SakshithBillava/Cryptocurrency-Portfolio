@@ -52,8 +52,10 @@ pip install -r requirements.txt
 # Run the application  
 streamlit run app.py  
 
-🌍 Future Improvements
-Add user authentication for enhanced security.
-Implement multi-currency support and historical trend analysis.
-Optimize performance for large data sets.
+## 🌍 Future Improvements
+- **Multi-Currency Support:** Add support for tracking investments in multiple fiat currencies.  
+- **Push Notifications:** Implement real-time alerts for price changes and market trends.  
+- **Advanced Analytics:** Introduce predictive analysis using machine learning for better investment decisions.  
+- **Portfolio Sharing:** Allow users to share their portfolio performance securely with others.  
+- **Dark Mode:** Add a dark mode option for better user experience in low-light environments.
 
