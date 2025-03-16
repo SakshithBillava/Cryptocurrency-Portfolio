@@ -39,18 +39,25 @@ A web-based application for real-time tracking and management of cryptocurrency 
 ---
 
 ## 🚀 How to Run  
-# Clone the repository:  
-
+**1. Clone the repository:**  
+```bash
 git clone https://github.com/SakshithBillava/cryptocurrency-portfolio.git
+```
 
-# Navigate to the project directory  
+**2. Navigate to the project directory**
+```bash
 cd cryptocurrency-portfolio  
+```
 
-# Install dependencies  
+**3. Install dependencies**
+```bash
 pip install -r requirements.txt  
+```
 
-# Run the application  
+**4. Run the application**
+```bash
 streamlit run app.py  
+```
 
 ## 🌍 Future Improvements
 - **Multi-Currency Support:** Add support for tracking investments in multiple fiat currencies.  
